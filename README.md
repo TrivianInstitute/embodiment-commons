@@ -30,4 +30,14 @@ Trivian Institute develops educational public goods; Trivian Technologies develo
 
 ## Participate and maturity
 
-Contact **learn@trivianinstitute.org**. See [Contributing](CONTRIBUTING.md), [community expectations](CODE_OF_CONDUCT.md), and [editorial status](EDITORIAL_STATUS.md). The practices await human practitioner review, accessibility feedback, and learner pilots. No effectiveness claim or approved public-content license is in place. Cross-repository links point to the canonical Institute home and become available after merge.
+Contact **learn@trivianinstitute.org**. See [Contributing](CONTRIBUTING.md), [community expectations](CODE_OF_CONDUCT.md), and [editorial status](EDITORIAL_STATUS.md). The practices await human practitioner review, accessibility feedback, and learner pilots. No effectiveness claim is made. Cross-repository links point to the canonical Institute home and become available after merge.
+
+## License
+
+Except where otherwise noted, the educational materials and documentation in this repository are licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). See [LICENSE](LICENSE) for the full terms, including the disclaimer of warranties.
+
+You may share and adapt these materials, including commercially, with appropriate credit, a license link, and an indication of changes. Shared adaptations must use the same or a compatible license as specified in the legal code.
+
+For attribution, identify this project, Trivian Institute, and any named creators or contributors; retain supplied notices and link to [this repository](https://github.com/TrivianInstitute/embodiment-commons). Credit does not imply endorsement or certification.
+
+This license covers the materials included here. It does not license external works merely linked or cited, Trivian Technologies implementations, or the separate Ahava Way certification curriculum. Patent and trademark rights are not granted. Licensing does not transfer copyright ownership; existing rights holders retain their rights.
