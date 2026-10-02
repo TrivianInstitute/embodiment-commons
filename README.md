@@ -30,7 +30,7 @@ Trivian Institute develops educational public goods; Trivian Technologies develo
 
 ## Participate and maturity
 
-Contact **learn@trivianinstitute.org**. See [Contributing](CONTRIBUTING.md), [community expectations](CODE_OF_CONDUCT.md), and [editorial status](EDITORIAL_STATUS.md). The practices await human practitioner review, accessibility feedback, and learner pilots. No effectiveness claim is made. Cross-repository links point to the canonical Institute home and become available after merge.
+Contact **learn@trivianinstitute.org**. See [Contributing](CONTRIBUTING.md), [community expectations](CODE_OF_CONDUCT.md), and [editorial status](EDITORIAL_STATUS.md). The practices await human practitioner review, accessibility feedback, and learner pilots. No effectiveness claim is made. [Embodied Creative Writing](https://github.com/TrivianInstitute/embodied-creative-writing) applies attention to craft and authorship, while [Educator Commons](https://github.com/TrivianInstitute/educator-commons) provides facilitation planning.
 
 ## License
 
