@@ -15,3 +15,5 @@ All seven practices are optional, educational, and unpiloted. Each includes purp
 | [Orienting to place after digital focus](07-environmental-orientation.md) | 3–7 minutes | After prolonged digital work or before entering a shared space |
 
 Choose one that fits the situation, not a prescribed sequence. An external-attention or purely reflective alternative is available in each practice. No practice grants a credential or requires a report of benefit.
+
+For explanations and activities around digital habits, use the six-unit [Embodied Digital Life course](../courses/embodied-digital-life/README.md). Its [additional practice scripts](../courses/embodied-digital-life/practices.md) are original educational invitations with the same consent and access boundaries; cited research does not establish their effectiveness.

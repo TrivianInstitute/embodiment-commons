@@ -15,6 +15,10 @@ The initial practices have not been evaluated for effectiveness. They offer oppo
 
 The broad embodied premise does not validate every proposed embodiment practice. Likewise, research on one breathing or movement intervention cannot automatically support these different, self-selected activities.
 
+## Evidence for the digital-life course
+
+The [digital-life evidence notes](digital-life-evidence.md) accompany [Embodied Digital Life](../courses/embodied-digital-life/README.md). They identify particular findings, populations, comparisons, limitations, and the boundary between a study and a proposed educational practice. They include mixed and limited findings rather than a single story about screens or the brain. Review dates identify when the course sources were checked; the list is a curated starting point, not a systematic review.
+
 ## Reading directions
 
 Begin with primary studies or scholarly reviews on embodied cognition, interoception, attention, environmental conditions, and accessibility. Before importing a claim, record the exact intervention, comparison, population, outcome measure, limitations, and whether it matches the activity here. No particular clinical protocol or physiological theory is prescribed by this release.
