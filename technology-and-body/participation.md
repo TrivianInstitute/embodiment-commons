@@ -11,3 +11,7 @@ An adaptive system can change the pace and direction of an exchange. A person ca
 ## Reflective exercise
 
 Choose a fictional or low-stakes task. Map purpose, interface, physical setting, available alternatives, and stopping conditions. Which constraint can the individual change? Which belongs to the institution or provider? Propose one change in each category and explain how you would assess whether it helped. Keep experience reports separate from physiological explanations.
+
+## Continue with a course
+
+[Embodied Digital Life](../courses/embodied-digital-life/README.md) develops this inquiry through six units on digital patterns, checking, emotional momentum, movement and visual comfort, rest, and revisable choices. Read the [evidence notes](../research-and-reading/digital-life-evidence.md) alongside the practices: a finding about one population or intervention does not establish a universal effect of technology or validate a different activity.

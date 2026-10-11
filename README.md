@@ -10,10 +10,14 @@ For independent learners, educators, libraries, community programs, universities
 
 ## Begin now
 
+For a guided learning pathway, begin [Embodied Digital Life: Attention, Breath, Movement, and Rest](courses/embodied-digital-life/README.md). Its six units connect specific digital situations with bounded research, practical changes in habits or environments, optional embodiment and yoga-informed invitations, and reflection. A [workbook](courses/embodied-digital-life/workbook.md) and [practice scripts](courses/embodied-digital-life/practices.md) support offline use. The course is formative educational material; it does not claim to repair brain changes or provide treatment.
+
 Try [a short sensory reset](practices/02-sensory-reset.md) after concentrated work, or [a decision pause](practices/03-decision-pause.md) before a non-urgent choice. Choose from [seven complete practices](practices/README.md), each lasting roughly two to seven minutes. No account, equipment, touch, or special posture is required.
 
 ## Navigate
 
+- [Embodied Digital Life course](courses/embodied-digital-life/README.md): six units, a workbook, practice scripts, and response guidance.
+- [Digital-life evidence notes](research-and-reading/digital-life-evidence.md): what each source supports, its limits, and how it relates to the course.
 - [Principles and scope](principles/README.md): embodiment, agency, and evidence boundaries.
 - [Practices](practices/README.md): standalone instructions and modifications.
 - [Facilitating](teaching-guides/facilitating.md): invitations, alternatives, and reflection.
@@ -25,6 +29,8 @@ Try [a short sensory reset](practices/02-sensory-reset.md) after concentrated wo
 ## Across the Commons
 
 [Interaction Literacy](https://github.com/TrivianInstitute/interaction-literacy) addresses judgment in human–AI interaction. The [Relational AI Casebook](https://github.com/TrivianInstitute/relational-ai-casebook) examines ambiguous decisions. The decision pause can accompany deliberation; it never replaces evidence or authority checks.
+
+New learners can begin with [Understanding AI in Everyday Life](https://github.com/TrivianInstitute/interaction-literacy/tree/main/orientation). The [Commons learning route](https://github.com/TrivianInstitute/educator-commons/blob/main/pathways/ai-literacy-and-embodied-digital-life.md) connects the two pathways, and educators can use a [60-minute embodied digital life session](https://github.com/TrivianInstitute/educator-commons/blob/main/sessions/embodied-digital-life-60-min.md).
 
 Trivian Institute develops educational public goods; Trivian Technologies develops technical architecture and deployable systems. This repository contains no technical implementation. The paid Ahava Way Assisted Stretch Certification—including sequencing, proprietary methods, assessments, and instructor training—is outside this Commons. These resources neither confer certification nor authorize assisted practice.
 
